@@ -1,0 +1,7 @@
+[package]
+name = "comps"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+comp_macro = { path = "comp_macro" }
